@@ -1,0 +1,3 @@
+Use case: the ceiling strip of a mobile game, a flat-vector grey bank-branch ceiling seen strictly from the front, landscape strip (3:1) filled edge to edge, designed to REPEAT SEAMLESSLY left-to-right (the left and right edge continue each other).
+Subject: a calm grey ceiling (#D6D9DC) divided into large flat rectangular panels by thin lighter seams, a darker cornice line (#9EA4AB) along the whole bottom edge, and two long recessed fluorescent lamp bars (#F1F5EC, white with a soft pale glow) in the lower third of the strip, well away from the left and right edges. Dull, desaturated, same flat style as Image 1.
+Constraints: NO text, NO letters, NO digits, NO logos, no watermark, no perspective.

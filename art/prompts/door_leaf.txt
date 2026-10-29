@@ -1,0 +1,3 @@
+Use case: one sliding glass door leaf for a mobile game, strictly FRONT view, portrait canvas.
+Subject: a single tall glass door panel: a thin dark graphite frame (#2B2E34) around a pale blue-grey glass pane (#CFE3EA to #A9C4CE) with two soft diagonal white reflection streaks, a vertical stainless-steel handle bar near one inner vertical edge. The leaf is about 58% of the canvas width and 90% of its height, centred. Flat vector style of Image 1.
+Constraints: flat solid pure magenta #FF00FF background everywhere else, NO text, NO letters, NO digits, NO logos, no perspective, no shadow, no glow.

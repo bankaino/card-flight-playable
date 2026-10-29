@@ -1,0 +1,3 @@
+Use case: the floor strip of a mobile game, a flat-vector tiled floor of a grey bank branch seen strictly from the front like a flat pattern (no perspective), landscape strip (3:1) filled edge to edge, designed to REPEAT SEAMLESSLY left-to-right (the left and right edge continue each other).
+Subject: a thin darker line along the very top edge (where the floor meets the wall), below it large rectangular floor tiles in two alternating greys (#8E9399 and #7D8288) in three rows with thin lighter grout lines, a very soft lighter sheen band near the top. Dull, desaturated, same flat style and soft light as Image 1.
+Constraints: NO text, NO letters, NO digits, NO logos, no watermark, no perspective.

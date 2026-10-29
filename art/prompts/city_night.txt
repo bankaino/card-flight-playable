@@ -1,0 +1,3 @@
+Use case: the night city skyline of a mobile game finale: a flat-vector silhouette strip (3:1) of a modern city, strictly front view, designed to REPEAT SEAMLESSLY left-to-right (the left and right edge continue each other: keep the leftmost and rightmost 8% as low buildings of the same height).
+Subject: many apartment blocks and towers of varied heights as one connected dark silhouette (#0A1428, a touch lighter #12203A on a few facades), with many small warm lit windows (#FFD9A0) in tidy grids, a flat bottom edge, nothing above the buildings.
+Constraints: flat solid pure magenta #FF00FF background everywhere above the buildings, NO text, NO letters, NO digits, NO logos, no stars, no moon, no glow.

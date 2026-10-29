@@ -1,0 +1,141 @@
+{
+  "title": "БАНК — полёт карты",
+  "store": {
+    "android": "https://example.com/karta",
+    "ios": "https://example.com/karta"
+  },
+  "textures": {
+    "hand": [
+      256,
+      "alpha"
+    ],
+    "card": [
+      420,
+      "alpha"
+    ],
+    "coin": [
+      128,
+      "alpha"
+    ],
+    "wall_tile": [
+      1280,
+      "lossy"
+    ],
+    "ceiling_tile": [
+      1024,
+      "lossy"
+    ],
+    "floor_tile": [
+      1024,
+      "lossy"
+    ],
+    "stack_tile": [
+      256,
+      "lossy"
+    ],
+    "duct_tile": [
+      256,
+      "lossy"
+    ],
+    "aurora_ribbon": [
+      1024,
+      "lossy"
+    ],
+    "city_night": [
+      1024,
+      "alpha"
+    ],
+    "door_frame": [
+      1280,
+      "alpha"
+    ],
+    "door_leaf": [
+      768,
+      "alpha"
+    ],
+    "top_queue": [
+      320,
+      "alpha"
+    ],
+    "top_stamp": [
+      320,
+      "alpha"
+    ],
+    "top_pct": [
+      320,
+      "alpha"
+    ],
+    "top_balloon": [
+      320,
+      "alpha"
+    ],
+    "top_tag": [
+      320,
+      "alpha"
+    ],
+    "top_scroll": [
+      320,
+      "alpha"
+    ],
+    "top_phone": [
+      320,
+      "alpha"
+    ],
+    "top_break": [
+      320,
+      "alpha"
+    ],
+    "bot_ticket": [
+      320,
+      "alpha"
+    ],
+    "bot_papers": [
+      320,
+      "alpha"
+    ],
+    "bot_till": [
+      320,
+      "alpha"
+    ],
+    "bot_piggy": [
+      320,
+      "alpha"
+    ],
+    "bot_turnstile": [
+      320,
+      "alpha"
+    ],
+    "bot_magnifier": [
+      320,
+      "alpha"
+    ],
+    "bot_folders": [
+      320,
+      "alpha"
+    ],
+    "bot_window": [
+      320,
+      "alpha"
+    ],
+    "man_sit": [
+      300,
+      "alpha"
+    ],
+    "woman_sit": [
+      300,
+      "alpha"
+    ],
+    "man_stand": [
+      300,
+      "alpha"
+    ],
+    "old_cane": [
+      300,
+      "alpha"
+    ],
+    "kid_stand": [
+      300,
+      "alpha"
+    ]
+  }
+}
